@@ -1,0 +1,158 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #1A1E51;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 560px;
+  width: 100%;
+  margin: 50px auto;
+  box-shadow: 0 -5px 40px 7px rgba(0, 0, 0, 0.08);
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+@media screen and (max-width: 575px) {
+  .container {
+    margin-top: 0;
+  }
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  padding: 25px 50px;
+}
+
+.logo__img {
+  max-width: 250px;
+  width: 100%;
+  height: auto;
+}
+
+.card__name,
+.card__job {
+  text-align: center;
+}
+
+.card__main {
+  padding-bottom: 60px;
+}
+
+.card__job {
+  margin: 15px 0 25px 0;
+}
+
+.icon,
+.icon__point {
+  width: 25px;
+  height: auto;
+  margin-right: 10px;
+}
+
+.icon__point {
+  height: 28px;
+}
+
+@media screen and (max-width: 475px) {
+  .card__function .icon,
+.card__function .icon__point {
+    display: block;
+    margin: 15px auto;
+  }
+}
+
+@media screen and (max-width: 475px) {
+  .card__function a {
+    display: block;
+    text-align: center;
+  }
+}
+
+.icon__web {
+  width: 25px;
+  height: 25px;
+  margin-right: 10px;
+}
+
+.card__function {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  border-top: 1px solid #1A1E51;
+  border-bottom: 1px solid #1A1E51;
+}
+
+.card__item {
+  width: 33.333%;
+}
+
+.card__item a {
+  display: block;
+  padding: 10px 30px;
+  text-decoration: none;
+}
+
+.card__right {
+  border-right: 1px solid #1A1E51;
+}
+
+.card__content {
+  padding: 30px;
+}
+
+.card__primary {
+  display: flex;
+  align-items: flex-start;
+  margin: 45px;
+}
+@media screen and (max-width: 520px) {
+  .card__primary {
+    margin: 45px 15px;
+  }
+}
+
+.card__secondary {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border-bottom: 1px solid #1A1E51;
+  padding-bottom: 10px;
+}
+
+.card__secondary a {
+  text-decoration: none;
+}
+
+.card__secondary small {
+  margin: 10px 0;
+}
+
+.btn {
+  display: block;
+  max-width: 350px;
+  margin: 0 auto;
+  text-decoration: none;
+  text-transform: uppercase;
+  background-color: #1A1E51;
+  color: #ffffff;
+  padding: 15px 30px;
+  text-align: center;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+.btn:hover {
+  background-color: #262c78;
+}
+
+.btn__item {
+  margin: 0 15px;
+}/*# sourceMappingURL=style.css.map */

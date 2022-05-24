@@ -1,0 +1,89 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/work/Dropbox/My Mac (vhd)/Documents/COX_data/Zakázky/Složka Lambdatech-viz/Document fonts/AdobeFnt22.lst
+FileLength:1854
+FileModTime:665062839
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Campton-Bold
+FamilyName:Campton
+StyleName:Bold
+MenuName:Campton Book
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Campton Bold
+WritingScript:Roman
+OutlineFileName:/Users/work/Dropbox/My Mac (vhd)/Documents/COX_data/Zakázky/Složka Lambdatech-viz/Document fonts/CamptonBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59948
+FileModTime:622915120
+NameArray:0,Mac,4,Campton Bold
+NameArray:0,Win,1,Campton Book
+NameArray:0,Win,16,Campton
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Campton-Light
+FamilyName:Campton
+StyleName:Light
+MenuName:Campton Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Campton Light
+WritingScript:Roman
+OutlineFileName:/Users/work/Dropbox/My Mac (vhd)/Documents/COX_data/Zakázky/Složka Lambdatech-viz/Document fonts/CamptonLight.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56504
+FileModTime:622915136
+NameArray:0,Mac,4,Campton Light
+NameArray:0,Win,1,Campton Light
+NameArray:0,Win,16,Campton
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Campton-SemiBold
+FamilyName:Campton
+StyleName:SemiBold
+MenuName:Campton SemiBold
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Campton SemiBold
+WritingScript:Roman
+OutlineFileName:/Users/work/Dropbox/My Mac (vhd)/Documents/COX_data/Zakázky/Složka Lambdatech-viz/Document fonts/CamptonSemiBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:57100
+FileModTime:622915150
+NameArray:0,Mac,4,Campton SemiBold
+NameArray:0,Win,1,Campton SemiBold
+NameArray:0,Win,16,Campton
+%EndFont
+
